@@ -1,0 +1,22 @@
+{
+  "name": "bot-test",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imkirko/bot-test.git"
+  },
+  "author": "Kirko",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/imkirko/bot-test#readme",
+  "dependencies": {
+    "discord.js": "^11.1.0",
+    "express": "^4.15.3",
+    "lodash": "^4.17.4",
+    "mongoose": "^4.11.4"
+  }
+}
